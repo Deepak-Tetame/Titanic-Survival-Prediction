@@ -11,7 +11,7 @@ This project applies Data Science & Machine Learning techniques to predict wheth
 ✅ Deployment in GUI – Integrating the ML model into a PyQt5 application for real-world usability
 
 📂 Dataset Used
-📌 
+📌 https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 
 🛠 Technologies Used
 🔹 Python (for Data Science & GUI)
